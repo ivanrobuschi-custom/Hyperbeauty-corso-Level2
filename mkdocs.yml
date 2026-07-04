@@ -1,0 +1,55 @@
+site_name: HyperBeauty Level 2 - Level Up
+site_url: https://ivanrobuschi-custom.github.io/Hyperbeauty-corso-Level2/
+site_description: Corso di secondo livello di HyperBeauty — Gestire, Fidelizzare, Automatizzare — Custom S.p.A.
+site_author: Ivan Robuschi
+
+theme:
+  name: material
+  language: it
+  logo: assets/icons/logo.png
+  favicon: assets/icons/favicon.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  palette:
+    primary: custom
+    accent: blue
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search:
+      lang: it
+  - tags
+
+extra:
+  generator: false
+
+copyright: Copyright Custom S.p.A. 2026
+
+nav:
+  - Introduzione: index.md
+  - "1 · Gestire":
+    - Scheda Cliente avanzata: scheda_cliente.md
+    - Gestione Turni Operatori: gestione_turni.md
+    - Gestione Magazzino: gestione_magazzino.md
