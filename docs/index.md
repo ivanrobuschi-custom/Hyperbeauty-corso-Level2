@@ -58,4 +58,23 @@ I contenuti attualmente disponibili di questa sezione:
 
 ---
 
+## Sezione 2 · Fidelizzare
+
+- [Planning avanzato & ottimizzazione agenda](planning_avanzato.md) — appuntamenti ricorrenti, lista d'attesa, blocchi e drag & drop
+- [Abbonamenti](abbonamenti.md) — pacchetti di sedute, contatori, scalatura automatica e cash flow
+- [Carte Prepagate & Gift Card](carte_prepagate.md) — credito con bonus fedeltà, ricarica e uso in cassa, gift card
+- [Fidelity Card](fidelity_card.md) — accumulo punti e premi automatici (prodotti, trattamenti, sconti) con le automazioni
+- [Report & Statistiche di Vendita](report_vendite.md) — pivot interattiva, filtri, margini ed esportazione
+- [BeWelly — App di prenotazione online](bewelly.md) — prenotazione autonoma del cliente e profilo con abbonamenti/prepagate
+
+---
+
+## Sezione 3 · Automatizzare
+
+- [SMS & Comunicazioni automatiche](sms.md) — conferme, promemoria e auguri automatici; il ROI sui no-show
+- [WhatsApp — 3 livelli di utilizzo](whatsapp.md) — manuale gratuito, automatico (WATI/SendApp) e post-cassa con recensioni Google
+- [Marketing Automation](marketing_automation.md) — automazioni SE→ALLORA: clienti inattivi, compleanni, rinnovi, cross-selling e premi automatici
+
+---
+
 *Documento a cura di Custom S.p.a. — HyperBeauty Training Program — Versione 1.0 — Luglio 2026*
