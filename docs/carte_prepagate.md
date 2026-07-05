@@ -29,7 +29,7 @@ Le carte prepagate sono strumenti di fidelizzazione basati su **credito monetari
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/carte_prepagate.mp4" type="video/mp4">
+  <source src="../assets/resources/FIDELIZZARE/prepagate/carte_prepagate.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 

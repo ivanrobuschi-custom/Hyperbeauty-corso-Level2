@@ -30,7 +30,7 @@ Il modulo di automazione marketing è **il differenziatore competitivo più fort
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/marketing_automation.mp4" type="video/mp4">
+  <source src="../assets/resources/AUTOMATIZZARE/marketing_automation.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
@@ -86,6 +86,32 @@ Ogni automazione mostra quanti messaggi sono stati **inviati, aperti e cliccati*
 
 !!! quote "La frase di chiusura del corso"
     *"Il gestionale continua a lavorare per voi anche quando siete chiusi. Ogni sera, mentre il salone è spento, l'automation ricorda ai vostri clienti che esiste un posto dove si prendono cura di loro."*
+
+---
+
+## Risvegliare i clienti dormienti
+
+Una delle automazioni più redditizie: intercettare i **clienti inattivi** e invitarli a tornare con un messaggio (e magari un incentivo) automatico.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/AUTOMATIZZARE/47-Hyperbeauty_risveglia_i_clienti_dormienti_con_gli_automatismi.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Automazione per i clienti dormienti](assets/images/marketing_automation/47_dormienti.png)
+
+---
+
+## Suggerimenti sugli automatismi
+
+Alcuni esempi pratici e best practice per impostare automazioni efficaci (promemoria prenotazione, invito alla recensione, ecc.).
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/AUTOMATIZZARE/50-Hyperbeauty_alcuni_suggerimenti_su_gli_automatismi.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Esempi di automazioni marketing](assets/images/marketing_automation/50_template.png)
 
 ---
 

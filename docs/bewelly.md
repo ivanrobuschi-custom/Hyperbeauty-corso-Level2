@@ -29,7 +29,7 @@ BeWelly è la **prenotazione online integrata** di HyperBeauty: il cliente preno
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/bewelly.mp4" type="video/mp4">
+  <source src="../assets/resources/FIDELIZZARE/bewelly/bewelly.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 

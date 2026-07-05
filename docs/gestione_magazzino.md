@@ -31,7 +31,7 @@ Il magazzino di HyperBeauty permette di **monitorare le giacenze**, gestire cari
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/gestione_magazzino.mp4" type="video/mp4">
+  <source src="../assets/resources/GESTIRE/magazzino/gestione_magazzino.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
@@ -117,6 +117,30 @@ Oltre al magazzino, il gestionale include una sezione **Costi di Gestione** per 
 | 4 | Memorizzare o concludere l'inventario |
 | 5 | Consultare i movimenti e monitorare le giacenze |
 | 6 | Impostare le soglie di riordino e usare costi/ordini fornitori |
+
+---
+
+## Carico da fattura d'acquisto
+
+La merce in arrivo si registra creando un **movimento di carico** collegato alla fattura del fornitore: si inseriscono gli articoli con quantità e prezzo d'acquisto, aggiornando le giacenze.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/GESTIRE/magazzino/23-Hyperbeauty_registrazione_fattura_acquisto_in_magazzino.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Registrazione fattura d'acquisto in magazzino](assets/images/gestione_magazzino/23_carico.png)
+
+## Scarico per uso interno
+
+I prodotti consumati internamente (non venduti) si registrano con un **movimento di scarico per uso interno**, così la giacenza resta sempre allineata alla realtà.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/GESTIRE/magazzino/24-Hyperbeauty_scarico_prodotti_ad_uso_interno.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Scarico prodotti ad uso interno](assets/images/gestione_magazzino/24_scarico.png)
 
 ---
 

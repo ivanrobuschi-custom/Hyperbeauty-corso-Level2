@@ -30,11 +30,16 @@ HyperBeauty offre tre livelli di integrazione WhatsApp, con costi e funzionalit�
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/whatsapp.mp4" type="video/mp4">
+  <source src="../assets/resources/AUTOMATIZZARE/39-Hyperbeauty_promemoria_rapido_appuntamenti_con_whatsapp_con_intervento_operatore.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
-*Il video mostra il Livello 1 — WhatsApp manuale gratuito.*
+*Il video mostra l'invio del promemoria appuntamenti via WhatsApp con intervento dell'operatore (Livello 1 — WhatsApp manuale).*
+
+![Lista appuntamenti da ricordare con invio WhatsApp](assets/images/whatsapp/39_promemoria.png)
+
+!!! note "Videoguida Livello 1 manuale"
+    Il clip dedicato all'invio del singolo messaggio rapido (video 17) è da ri-registrare e verrà aggiunto; il video 51 (riepilogo appuntamenti al salvataggio) è nella sezione [Gestione appuntamento](gestione_appuntamento.md).
 
 ---
 

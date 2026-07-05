@@ -31,7 +31,7 @@ La scheda cliente di HyperBeauty è molto più di un'anagrafica: è la **memoria
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/scheda_cliente.mp4" type="video/mp4">
+  <source src="../assets/resources/GESTIRE/scheda_cliente/scheda_cliente.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
@@ -130,6 +130,19 @@ I **tag** permettono di segmentare la clientela per le campagne marketing. Si ag
 | 4 | Verificare le icone reminder in agenda e cassa |
 | 5 | Usare l'import massivo per la migrazione da altri gestionali |
 | 6 | Assegnare tag per la segmentazione marketing |
+
+---
+
+## Schede Tecniche del cliente
+
+Nella scheda cliente, il tab **Schede Tecniche** raccoglie le schede di servizio (es. formule colore, parametri di trattamento) associate al cliente, così da ripetere il servizio in modo identico nel tempo.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/GESTIRE/scheda_cliente/06-Hyperbeauty_gestione_schede_tecniche.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Schede tecniche nella scheda cliente](assets/images/scheda_cliente/06_schede_tecniche.png)
 
 ---
 

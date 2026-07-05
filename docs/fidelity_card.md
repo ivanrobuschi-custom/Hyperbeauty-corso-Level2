@@ -30,7 +30,7 @@ La fidelity card è la **tessera a punti** del salone: il cliente accumula punti
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/fidelity_card.mp4" type="video/mp4">
+  <source src="../assets/resources/FIDELIZZARE/prepagate/fidelity_card.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 

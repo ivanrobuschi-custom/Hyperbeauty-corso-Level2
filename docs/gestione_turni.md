@@ -31,7 +31,7 @@ La gestione turni serve a governare le **variazioni di orario** rispetto agli or
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/gestione_turni.mp4" type="video/mp4">
+  <source src="../assets/resources/GESTIRE/turni/gestione_turni.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
@@ -123,6 +123,19 @@ Le fasce non lavorative dell'operatore compaiono **in grigio** nell'agenda: in q
 | 4 | Gestire ferie e variazioni come eccezioni su date specifiche |
 | 5 | Verificare in agenda le fasce grigie non prenotabili |
 | 6 | Controllare la ricaduta sulla disponibilità BeWelly |
+
+---
+
+## Eccezione rapida
+
+Per una variazione veloce su una singola giornata (senza creare un turno tipo) si usa l'**eccezione rapida** direttamente dall'agenda.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/GESTIRE/turni/04-Hyperbeauty_eccezione_rapida.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Eccezione rapida sul turno operatore](assets/images/gestione_turni/04_eccezione.png)
 
 ---
 

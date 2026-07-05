@@ -48,20 +48,25 @@ extra:
 copyright: Copyright Custom S.p.A. 2026
 
 nav:
-  - Panoramica: index.md
-  - "Gestire":
-    - Gestire l'appuntamento: appuntamento.md
+  - Introduzione: index.md
+  - "1 · Gestire":
+    - Gestione appuntamento: gestione_appuntamento.md
     - Scheda Cliente avanzata: scheda_cliente.md
     - Gestione Turni Operatori: gestione_turni.md
+    - Listino & Schede Tecniche: listino.md
     - Gestione Magazzino: gestione_magazzino.md
-  - "Fidelizzare":
-    - Planning avanzato & agenda: planning_avanzato.md
+    - Cassa & Incassi: cassa_incassi.md
+    - Costi di Gestione: costi_gestione.md
+    - Wishlist: wishlist.md
+    - Profili e Ruoli: profili_ruoli.md
+    - Tipi documento: tipi_documento.md
+  - "2 · Fidelizzare":
     - Abbonamenti: abbonamenti.md
     - Carte Prepagate & Gift Card: carte_prepagate.md
     - Fidelity Card: fidelity_card.md
     - Report & Statistiche di Vendita: report_vendite.md
     - BeWelly — Prenotazione online: bewelly.md
-  - "Automatizzare":
+  - "3 · Automatizzare":
     - SMS & Comunicazioni automatiche: sms.md
     - WhatsApp — 3 livelli: whatsapp.md
     - Marketing Automation: marketing_automation.md

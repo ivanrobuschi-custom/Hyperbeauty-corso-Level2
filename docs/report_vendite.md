@@ -30,7 +30,7 @@ Il modulo di reportistica è **il più potente della categoria** e uno dei princ
 ---
 
 <video controls width="100%" style="border-radius:8px; margin-bottom:1.5rem;">
-  <source src="../assets/resources/report_vendite.mp4" type="video/mp4">
+  <source src="../assets/resources/FIDELIZZARE/statistiche/report_vendite.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
 
@@ -81,6 +81,45 @@ Cambiando raggruppamento si passa, ad esempio, all'analisi per **cliente** (freq
 
 !!! quote "Differenziatore competitivo"
     *"Nessun competitor ce l'ha così spinto."* — Il modulo report è la funzione più differenziante rispetto ai competitor diretti nella stessa fascia di prezzo. Usare come closing argument: se non bastano questi numeri in tempo reale con tutti questi filtri, non esiste un gestionale della stessa fascia che faccia meglio.
+
+---
+
+## Dashboard & Widget statistiche
+
+La dashboard mostra i **widget statistici** configurabili con i numeri chiave del salone in tempo reale (fatturato, appuntamenti, incassi).
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/FIDELIZZARE/statistiche/10-Hyperbeauty_dashboard_widget_statistiche_base.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Configurazione di un widget della dashboard](assets/images/report_vendite/10_dashboard.png)
+
+---
+
+## Report ed estrazioni personalizzate
+
+Oltre ai report standard, è possibile creare **estrazioni personalizzate** dei dati, filtrando e selezionando i campi desiderati ed esportando il risultato.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/FIDELIZZARE/statistiche/29-Hyperbeauty_report_ed_estrazioni_personalizzate.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Report ed estrazioni personalizzate](assets/images/report_vendite/29_estrazioni.png)
+
+---
+
+## Report degli incassi
+
+Il report degli incassi riepiloga gli importi incassati per periodo e metodo di pagamento, utile per la quadratura di cassa.
+
+<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
+  <source src="../assets/resources/FIDELIZZARE/statistiche/64-Hyperbeauty_report_deglli_incassi.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>
+
+![Report degli incassi](assets/images/report_vendite/64_incassi.png)
 
 ---
 
