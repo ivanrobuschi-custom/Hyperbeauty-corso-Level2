@@ -50,7 +50,7 @@ copyright: Copyright Custom S.p.A. 2026
 nav:
   - Panoramica: index.md
   - "Gestire":
-    - La presa appuntamento: appuntamento.md
+    - Gestire l'appuntamento: appuntamento.md
     - Scheda Cliente avanzata: scheda_cliente.md
     - Gestione Turni Operatori: gestione_turni.md
     - Gestione Magazzino: gestione_magazzino.md

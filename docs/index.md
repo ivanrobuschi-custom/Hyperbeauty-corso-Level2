@@ -24,7 +24,7 @@ keywords:
   - panoramica
 ---
 
-![HyperBeauty](assets/icons/logo.png)
+![HyperBeauty](assets/images/hyperbeauty_blu_rgb.png)
 ![HyperBeauty](assets/images/HB_copertina_2.png)
 
 # **Level 2** — Level Up: Gestire, Fidelizzare, Automatizzare
