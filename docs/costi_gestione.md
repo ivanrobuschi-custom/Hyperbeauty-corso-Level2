@@ -3,11 +3,11 @@ title: Costi di Gestione
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Registrazione dei costi fissi e variabili del salone e integrazione con i report di redditività
+argomento: Registrazione dei costi fissi e variabili del salone e redditività
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.0"
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -15,14 +15,13 @@ sezione_ordine: 7
 prodotto_versione: "2026"
 keywords:
   - costi
-  - costi_di_gestione
   - redditivita
   - spese
 ---
 
 # Costi di Gestione
 
-La sezione Costi di Gestione permette di registrare le **spese fisse e variabili** del salone (affitto, utenze, forniture, personale), integrandole con i report di redditività per avere il quadro reale del margine.
+Registrando le spese del salone (affitto, utenze, forniture) i report non mostrano solo il fatturato, ma il **guadagno reale**. Ecco come inserirle.
 
 ---
 
@@ -33,16 +32,20 @@ La sezione Costi di Gestione permette di registrare le **spese fisse e variabili
 
 ---
 
-## Registrare un costo
+## Passo 1 — Registra un costo
 
-Ogni costo si registra indicando descrizione, importo, periodicità e categoria.
+Apri **Costi di Gestione** e crea un nuovo costo: inserisci **descrizione**, **importo**, **periodicità** (una tantum / mensile) e **categoria**.
 
 ![Creazione di un costo di gestione](assets/images/costi_gestione/step_02.png)
+
+## Passo 2 — Consulta l'elenco dei costi
+
+L'elenco raccoglie tutte le spese registrate, pronte per essere incrociate con i report di redditività.
 
 ![Elenco dei costi di gestione](assets/images/costi_gestione/step_01.png)
 
 !!! tip "Dal fatturato al margine"
-    Registrare i costi consente ai report di mostrare non solo il fatturato ma la **redditività reale**: è ciò che trasforma il gestionale in uno strumento di controllo del business.
+    Solo conoscendo i costi puoi sapere quanto **guadagni davvero**: è ciò che trasforma il gestionale in uno strumento di controllo del business.
 
 ---
 

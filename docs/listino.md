@@ -7,7 +7,7 @@ argomento: Gestione del listino trattamenti e delle schede tecniche di servizio
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.0"
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -17,12 +17,11 @@ keywords:
   - listino
   - schede_tecniche
   - trattamenti
-  - servizi
 ---
 
 # Listino & Schede Tecniche
 
-Il listino raccoglie trattamenti e servizi con prezzi e durate; le **schede tecniche** permettono di registrare i parametri di esecuzione di un servizio (es. formule, tempi) per ripeterlo in modo identico nel tempo.
+Il listino raccoglie i tuoi trattamenti con prezzi e durate. Le **schede tecniche** salvano i dettagli di esecuzione di un servizio (es. formula colore) per ripeterlo identico ogni volta.
 
 ---
 
@@ -33,16 +32,20 @@ Il listino raccoglie trattamenti e servizi con prezzi e durate; le **schede tecn
 
 ---
 
-## Le schede tecniche
+## Passo 1 — Crea la scheda tecnica
 
-Le schede tecniche si creano e si associano ai trattamenti/clienti, così ogni operatore può riprodurre il servizio con gli stessi parametri.
+Apri la gestione **schede tecniche** e crea una nuova scheda: inserisci i parametri del servizio (prodotti, dosi, tempi).
 
 ![Creazione di una scheda tecnica](assets/images/listino/step_01.png)
 
+## Passo 2 — Associala al trattamento o al cliente
+
+Collega la scheda al trattamento (o al singolo cliente), così ogni operatore la ritrova pronta.
+
 ![Scheda tecnica associata](assets/images/listino/step_02.png)
 
-!!! tip "Coerenza del servizio"
-    Le schede tecniche garantiscono continuità: anche se cambia l'operatore, il cliente riceve lo stesso risultato. È un forte fattore di fidelizzazione.
+!!! tip "Stesso risultato, sempre"
+    Con le schede tecniche il cliente riceve lo stesso servizio anche se cambia l'operatore: è un forte elemento di fidelizzazione.
 
 ---
 

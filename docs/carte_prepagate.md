@@ -3,11 +3,11 @@ title: Carte Prepagate & Gift Card
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Carte prepagate, bonus fedeltà, gift card, ricarica e scalatura del credito in cassa
+argomento: Carte prepagate, bonus fedeltà, gift card, ricarica e uso del credito in cassa
 autore: Robuschi Ivan
 documento_destinato_a: partner
-data_creazione: 2026-07-04
-revisione: "1.0"
+data_creazione: 2026-07-05
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -19,12 +19,11 @@ keywords:
   - bonus_fedelta
   - credito
   - ricarica
-  - fidelizzazione
 ---
 
 # Carte Prepagate & Gift Card
 
-Le carte prepagate sono strumenti di fidelizzazione basati su **credito monetario**: il cliente carica un importo e riceve un valore maggiorato. Sono ideali per qualsiasi tipo di salone e generano incasso anticipato.
+La prepagata è un **credito** che il cliente carica in anticipo, ricevendo in cambio un **bonus** (es. paga €200, spende €250). Il cliente torna perché ha credito da usare. Ecco come si gestisce, passo per passo.
 
 ---
 
@@ -35,62 +34,53 @@ Le carte prepagate sono strumenti di fidelizzazione basati su **credito monetari
 
 ---
 
-## Il meccanismo della prepagata
+## Passo 1 — Crea il tipo di prepagata
 
-Il cliente carica un importo sul conto prepagato (es. **€200**) e riceve un **valore spendibile maggiorato** (es. **€250**). La differenza (€50) è un **bonus fedeltà** che incentiva il riacquisto. Le percentuali di bonus sono configurabili.
-
-Si parte creando il tipo di prepagata (nome, prezzo di vendita, percentuale bonus, valore).
+Vai su **Anagrafiche → Prepagate → Nuova**. Imposta nome, **prezzo di vendita** (quanto paga il cliente), **percentuale bonus** e quindi il **valore spendibile**.
 
 ![Creazione anagrafica prepagata](assets/images/carte_prepagate/step_01.png)
 
----
+## Passo 2 — Assegnala al cliente
 
-## Assegnare la prepagata al cliente
+Dalla **scheda del cliente → tab Prepagate**, clicca **Nuova prepagata** e scegli il tipo creato prima.
 
-Dalla scheda cliente, tab **Prepagate**, si assegna una nuova prepagata al cliente.
+![Assegnazione della prepagata al cliente](assets/images/carte_prepagate/step_02.png)
 
-![Assegnazione prepagata al cliente](assets/images/carte_prepagate/step_02.png)
+## Passo 3 — Controlla il credito nella scheda
 
-Il tab mostra tutte le prepagate del cliente con **valore caricato, bonus e credito residuo**.
+Il tab Prepagate mostra sempre il **valore caricato, il bonus e il credito residuo** del cliente.
 
-![Prepagate del cliente nella scheda](assets/images/carte_prepagate/step_03.png)
+![Prepagate del cliente con il credito residuo](assets/images/carte_prepagate/step_03.png)
 
----
+## Passo 4 — Ricarica o usa il credito in cassa
 
-## Ricarica e uso in cassa
-
-La ricarica e l'utilizzo del credito avvengono in **cassa**. Al momento dell'incasso, se il cliente ha credito prepagato, il sistema propone automaticamente di scalare dall'importo prepagato.
+In **cassa**, al momento del pagamento, il sistema propone di **scalare dal credito prepagato**. Da qui puoi anche fare una nuova **ricarica**.
 
 ![Prepagata in cassa](assets/images/carte_prepagate/step_04.png)
 
-Il credito si scala proporzionalmente al costo del trattamento o prodotto acquistato.
-
-![Utilizzo del credito prepagato al pagamento](assets/images/carte_prepagate/step_05.png)
+![Utilizzo del credito al pagamento](assets/images/carte_prepagate/step_05.png)
 
 !!! info "Icona arancione in agenda"
-    Quando il cliente ha credito prepagato residuo, in agenda compare un'**icona arancione**: un promemoria per proporre l'utilizzo del credito o un'ulteriore ricarica.
+    Quando il cliente ha credito residuo, in agenda appare un'icona **arancione**: il promemoria per proporgli di usarlo o di ricaricare.
+
+## Passo 5 — Controlla l'elenco delle prepagate
+
+In **Anagrafica Prepagate** trovi tutte le carte emesse con valore, cliente e stato.
+
+![Elenco delle prepagate](assets/images/carte_prepagate/step_06.png)
 
 ---
 
 ## Gift Card
 
-La **gift card** è funzionalmente identica alla prepagata, ma pensata per essere **regalata a terzi**: il cliente A la acquista e la consegna al cliente B, che ne usa il credito.
+La **gift card** funziona come una prepagata, ma è pensata per essere **regalata**: il cliente A la compra e la dà al cliente B.
 
-**Percorso:** Cassa → Vendita Gift Card → importo → genera codice univoco → stampabile o inviabile.
+1. Vai in **Cassa → Vendita Gift Card**.
+2. Inserisci l'**importo**.
+3. **Genera il codice** univoco: stampalo o invialo.
 
-!!! tip "Spunto commerciale"
-    Ottima per le campagne di **Natale, Festa della Mamma, San Valentino**. È uno strumento di marketing che i dealer con mentalità commerciale capiscono subito.
-
----
-
-## Il registro delle prepagate
-
-L'elenco **Anagrafica Prepagate** raccoglie tutte le carte emesse con valore, cliente associato, date e stato.
-
-![Elenco prepagate](assets/images/carte_prepagate/step_06.png)
-
-!!! quote "Argomento di vendita"
-    *"Il salone vende €200 e incassa €250 di fedeltà. Il cliente si sente premiato e ritorna."*
+!!! tip "Idea marketing"
+    Perfetta per Natale, Festa della Mamma e San Valentino.
 
 ---
 
@@ -98,11 +88,10 @@ L'elenco **Anagrafica Prepagate** raccoglie tutte le carte emesse con valore, cl
 
 | | **Prepagata** | **Abbonamento** |
 |--|---------------|-----------------|
-| **Cosa lega** | Credito libero | Un trattamento specifico |
-| **Esempio** | €250 spendibili su tutto | 10 sedute di pulizia viso |
-| **Uso** | Scala un importo | Scala una seduta |
+| Cosa lega | Credito libero | Un trattamento specifico |
+| Esempio | €250 su tutto | 10 sedute di pulizia viso |
 
-Vedi anche la pagina [Abbonamenti](abbonamenti.md).
+Vedi anche [Abbonamenti](abbonamenti.md).
 
 ---
 

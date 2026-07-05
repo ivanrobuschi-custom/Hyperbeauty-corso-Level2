@@ -3,11 +3,11 @@ title: Wishlist (lista acquisti)
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Lista dei desideri/acquisti del cliente per proposte mirate e riacquisto
+argomento: Lista dei desideri del cliente per proposte mirate e riacquisto
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.0"
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -17,12 +17,11 @@ keywords:
   - wishlist
   - lista_acquisti
   - riacquisto
-  - proposte
 ---
 
 # Wishlist (lista acquisti)
 
-La wishlist è la **lista dei desideri** del cliente: prodotti o trattamenti a cui è interessato ma che non ha ancora acquistato. Serve a preparare proposte mirate e a stimolare il riacquisto.
+La wishlist è la **lista dei desideri** del cliente: prodotti o trattamenti che gli interessano ma che non ha ancora comprato. Ti serve per proporglieli al momento giusto.
 
 ---
 
@@ -33,16 +32,20 @@ La wishlist è la **lista dei desideri** del cliente: prodotti o trattamenti a c
 
 ---
 
-## Usare la wishlist
+## Passo 1 — Aggiungi un articolo alla wishlist
 
-Gli articoli desiderati si aggiungono alla lista del cliente e si richiamano in cassa o durante l'appuntamento per proporli al momento giusto.
-
-![Wishlist richiamata in cassa](assets/images/wishlist/step_01.png)
+Quando un cliente mostra interesse per un prodotto/trattamento, aggiungilo alla sua **lista dei desideri** dalla scheda cliente o dalla vendita.
 
 ![Gestione della lista acquisti](assets/images/wishlist/step_02.png)
 
-!!! tip "Vendita assistita"
-    La wishlist trasforma un interesse espresso ("mi piacerebbe provare…") in un promemoria concreto per l'operatore: è un piccolo strumento con un grande impatto sul valore medio del cliente.
+## Passo 2 — Richiamala in cassa o in appuntamento
+
+Alla visita successiva richiami la wishlist per proporre l'articolo desiderato: una vendita facile perché il cliente lo voleva già.
+
+![Wishlist richiamata in cassa](assets/images/wishlist/step_01.png)
+
+!!! tip "Piccolo strumento, grande effetto"
+    Trasformare un "mi piacerebbe provare…" in un promemoria concreto aumenta il valore medio del cliente senza forzature.
 
 ---
 

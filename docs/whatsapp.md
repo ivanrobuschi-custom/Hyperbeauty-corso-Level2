@@ -6,26 +6,24 @@ produttore: Custom S.p.A.
 argomento: WhatsApp manuale, automatico (WATI/SendApp) e post-cassa con richiesta recensione Google
 autore: Robuschi Ivan
 documento_destinato_a: partner
-data_creazione: 2026-07-04
-revisione: "1.0"
+data_creazione: 2026-07-05
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
-sezione_ordine: 11
+sezione_ordine: 2
 prodotto_versione: "2026"
 keywords:
   - whatsapp
-  - messaggi
   - promemoria
   - wati
   - sendapp
   - recensioni_google
-  - post_cassa
 ---
 
 # WhatsApp — 3 livelli di utilizzo
 
-HyperBeauty offre tre livelli di integrazione WhatsApp, con costi e funzionalità crescenti. È uno dei blocchi a maggior impatto del corso per la percezione di valore.
+HyperBeauty parla con i clienti via WhatsApp in **tre modi**, dal più semplice e gratuito al più automatico. Vediamo prima il requisito, poi i tre livelli.
 
 ---
 
@@ -34,35 +32,36 @@ HyperBeauty offre tre livelli di integrazione WhatsApp, con costi e funzionalit�
   Il tuo browser non supporta il tag video.
 </video>
 
-*Il video mostra l'invio del promemoria appuntamenti via WhatsApp con intervento dell'operatore (Livello 1 — WhatsApp manuale).*
-
 ![Lista appuntamenti da ricordare con invio WhatsApp](assets/images/whatsapp/39_promemoria.png)
 
-!!! note "Videoguida Livello 1 manuale"
-    Il clip dedicato all'invio del singolo messaggio rapido (video 17) è da ri-registrare e verrà aggiunto; il video 51 (riepilogo appuntamenti al salvataggio) è nella sezione [Gestione appuntamento](gestione_appuntamento.md).
+!!! note "Nota sui video"
+    Il clip del singolo messaggio rapido (video 17) è da ri-registrare; il video 51 (riepilogo appuntamenti al salvataggio) è in [Gestione appuntamento](gestione_appuntamento.md).
 
 ---
 
-## Prerequisito comune
+## Requisito (vale per tutti i livelli)
 
-Su ogni cliente servono il **numero WhatsApp valido** e il flag **"consenso comunicazioni"** attivo, impostabili dalla scheda cliente.
+Sulla **scheda del cliente** servono due cose:
 
-![Scheda cliente: consenso comunicazioni e numero WhatsApp](assets/images/whatsapp/step_02.png)
+1. un **numero WhatsApp valido**;
+2. il flag **"consenso comunicazioni"** attivo.
+
+![Scheda cliente: consenso comunicazioni e numero](assets/images/whatsapp/step_02.png)
 
 ---
 
-## Livello 1 — WhatsApp manuale gratuito
+## Livello 1 — WhatsApp manuale (gratuito, tutti i piani)
 
-*Disponibile su tutti i piani.* Funziona con **WhatsApp Desktop** installato e sincronizzato sul PC del salone.
+Funziona con **WhatsApp Desktop** aperto sul PC del salone.
 
-Al salvataggio di un appuntamento, il gestionale **pre-scrive automaticamente** un messaggio con nome cliente, data, ora e trattamento. L'operatore lo vede già compilato e clicca solo **Invia**.
+1. Attiva in **Impostazioni → Sede → Comunicazioni → WhatsApp** e imposta il **template** del messaggio.
+2. Al salvataggio dell'appuntamento, il gestionale **scrive già il messaggio** (nome, data, ora, trattamento).
+3. L'operatore controlla e clicca **Invia**.
 
-![Invio rapido WhatsApp dall'appuntamento](assets/images/whatsapp/step_03.png)
+![Invio del messaggio WhatsApp dall'appuntamento](assets/images/whatsapp/step_03.png)
 
-**Configurazione:** Impostazioni → Sede → Comunicazioni → WhatsApp → attiva toggle + imposta template messaggio.
-
-!!! note "Limiti del Livello 1"
-    Richiede WhatsApp Desktop aperto, richiede un'azione manuale (click su Invia) e funziona solo da un PC specifico.
+!!! note "Limiti"
+    Richiede WhatsApp Desktop aperto e un clic manuale; funziona da quel PC.
 
 ![Agenda: gli appuntamenti da cui parte il messaggio](assets/images/whatsapp/step_01.png)
 
@@ -70,37 +69,32 @@ Al salvataggio di un appuntamento, il gestionale **pre-scrive automaticamente** 
 
 ## Livello 2 — WhatsApp automatico (WATI / SendApp)
 
-*Modulo a pagamento.* Integrazione con piattaforme esterne (**WATI** o **SendApp**) collegate all'account WhatsApp Business del salone tramite **API ufficiale Meta**.
-
-Il gestionale invia i messaggi **automaticamente**, senza alcun intervento dell'operatore: conferme, promemoria, auguri di compleanno, promozioni.
+*Modulo a pagamento.* Si collega WhatsApp Business tramite **API ufficiale Meta** (con WATI o SendApp): i messaggi partono **da soli**, senza intervento dell'operatore — conferme, promemoria, auguri, promozioni.
 
 !!! info "Costi"
-    Canone mensile per l'API WhatsApp Business + costo per messaggio (varia per nazione e tipo di messaggio). Verificare le tariffe con Custom.
+    Canone mensile dell'API + costo per messaggio. Verifica le tariffe con Custom.
 
 ---
 
 ## Livello 3 — WhatsApp post-cassa
 
-Messaggio inviato automaticamente **dopo ogni incasso** completato in cassa. Contenuto tipico: ringraziamento per la visita + link alla pagina Google del salone per lasciare una recensione.
+Messaggio inviato in automatico **dopo ogni incasso**: ringraziamento + link alla pagina Google per la recensione.
 
-!!! quote "Esempio di messaggio"
-    *"Grazie [nome], è stato un piacere! Se sei soddisfatta, ci farebbe molto piacere una recensione Google 🌟 [link]"*
+!!! quote "Esempio"
+    *"Grazie [nome]! Se sei soddisfatta, ci farebbe piacere una recensione Google 🌟 [link]"*
 
-!!! tip "Strategia recensioni Google"
-    Il WhatsApp post-cassa con link alla recensione è una strategia concreta e misurabile: i saloni che lo usano riportano **+20–30 recensioni Google in 3 mesi**. Per un salone locale, le recensioni Google valgono oro. Si configura nel template delle comunicazioni post-cassa.
+!!! tip "Recensioni che crescono da sole"
+    I saloni che lo usano riportano **+20–30 recensioni Google in 3 mesi**. Si imposta nel template delle comunicazioni post-cassa.
 
 ---
 
-## Riepilogo dei tre livelli
+## Riepilogo
 
-| Livello | Piano | Intervento operatore | Punto di forza |
-|---------|-------|----------------------|----------------|
-| **1 · Manuale** | Tutti | Click su Invia | Gratuito, immediato |
-| **2 · Automatico** | A pagamento (WATI/SendApp) | Nessuno | Zero effort |
-| **3 · Post-cassa** | A pagamento | Nessuno | Recensioni Google |
-
-!!! note "Come presentarlo"
-    Mostrare prima il Livello 1 (gratuito, immediato), poi presentare il Livello 2 come upgrade naturale per chi vuole zero effort.
+| Livello | Piano | Chi invia | Punto di forza |
+|---------|-------|-----------|----------------|
+| 1 · Manuale | Tutti | L'operatore (clic) | Gratuito, subito |
+| 2 · Automatico | A pagamento | Il sistema | Zero effort |
+| 3 · Post-cassa | A pagamento | Il sistema | Recensioni Google |
 
 ---
 

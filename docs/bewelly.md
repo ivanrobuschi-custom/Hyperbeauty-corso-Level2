@@ -3,28 +3,26 @@ title: BeWelly — App di prenotazione online
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: App e link di prenotazione online, esperienza cliente, configurazione e profilo cliente
+argomento: App e link di prenotazione online, esperienza cliente e configurazione
 autore: Robuschi Ivan
 documento_destinato_a: partner
-data_creazione: 2026-07-04
-revisione: "1.0"
+data_creazione: 2026-07-05
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
-sezione_ordine: 9
+sezione_ordine: 5
 prodotto_versione: "2026"
 keywords:
   - bewelly
   - prenotazione_online
   - app
-  - link_prenotazione
-  - agenda
   - profilo_cliente
 ---
 
 # BeWelly — App di prenotazione online
 
-BeWelly è la **prenotazione online integrata** di HyperBeauty: il cliente prenota autonomamente dal proprio smartphone (app o link web) e la prenotazione confluisce direttamente in agenda, senza intervento dello staff.
+Con BeWelly il cliente **prenota da solo** dallo smartphone e l'appuntamento entra direttamente in agenda, senza telefonate. Vediamo prima cosa vede il cliente, poi come si attiva.
 
 ---
 
@@ -35,53 +33,53 @@ BeWelly è la **prenotazione online integrata** di HyperBeauty: il cliente preno
 
 ---
 
-## L'esperienza del cliente
+## Cosa fa il cliente (passo per passo)
 
-Aprendo l'app, il cliente sceglie la categoria di servizio e trova i centri vicini.
+### Passo 1 — Apre l'app e sceglie la categoria
+
+Nella home BeWelly il cliente sceglie la categoria (capelli, corpo, viso…) e trova i centri vicini.
 
 ![Home dell'app BeWelly](assets/images/bewelly/step_01.png)
 
-Nella pagina del salone vede le foto, seleziona l'**operatore** e filtra per **trattamento**, con prezzi e durate.
+### Passo 2 — Sceglie operatore e trattamento
 
-![Pagina del salone con trattamenti](assets/images/bewelly/step_02.png)
+Nella pagina del salone seleziona l'**operatore** e filtra per **trattamento**, con prezzi e durate.
 
-Il calendario mostra la **disponibilità in tempo reale**: il cliente sceglie giorno e ora tra le soluzioni proposte e conferma.
+![Pagina del salone con i trattamenti](assets/images/bewelly/step_02.png)
+
+### Passo 3 — Sceglie giorno e ora
+
+Il calendario mostra la **disponibilità in tempo reale**: il cliente sceglie uno slot e conferma.
 
 ![Soluzioni consigliate e slot disponibili](assets/images/bewelly/step_03.png)
 
----
+### Passo 4 — Ritrova le sue prenotazioni
 
-## Appuntamenti e profilo
+Nella sezione **Appuntamenti** vede le prenotazioni fatte, con stato e storico.
 
-Il cliente ritrova le sue prenotazioni nella sezione **Appuntamenti**, con stato e storico.
+![Elenco appuntamenti nell'app](assets/images/bewelly/step_04.png)
 
-![Elenco appuntamenti del cliente](assets/images/bewelly/step_04.png)
+### Passo 5 — Vede fidelity, abbonamenti e prepagate
 
-Nel **Profilo** il cliente vede anche Fidelity, **Abbonamenti** e **Prepagate**: gli strumenti di fidelizzazione del salone sono a portata di mano anche online.
+Nel **Profilo** il cliente ritrova Fidelity, Abbonamenti e Prepagate: gli strumenti di fidelizzazione a portata di mano anche online.
 
 ![Profilo cliente con Fidelity, Abbonamenti e Prepagate](assets/images/bewelly/step_05.png)
 
 !!! tip "Il cerchio si chiude"
-    Il cliente vede in app i propri abbonamenti e il credito prepagato: questo lo invoglia a prenotare di nuovo per usare ciò che ha già acquistato. Prenotazione online e fidelizzazione si rafforzano a vicenda.
+    Vedendo in app il credito e gli abbonamenti, il cliente è invogliato a prenotare di nuovo per usarli.
 
 ---
 
-## Come si configura
+## Come attivarlo (lato salone)
 
-**Percorso:** Impostazioni → Sede → Prenotazione Online → attivare il toggle
+1. Vai su **Impostazioni → Sede → Prenotazione Online** e attiva il **toggle**.
+2. Scegli quali **trattamenti** sono prenotabili online.
+3. Scegli quali **operatori** appaiono (puoi nascondere chi non prende prenotazioni dirette).
+4. Imposta l'**anticipo minimo** (es. non prenotabile nelle prossime 2 ore) e le regole di **cancellazione**.
+5. Carica fino a **5 foto** del salone (fanno la prima impressione).
 
-Poi si definisce:
-
-- quali **trattamenti** sono prenotabili online
-- quali **operatori** appaiono (es. nascondere il titolare che non prende prenotazioni dirette)
-- l'**anticipo minimo** (es. non prenotabile nelle prossime 2 ore)
-- la **cancellazione online** (sì/no + anticipo minimo per cancellare)
-
-!!! note "Le 5 foto del salone"
-    Si possono caricare fino a **5 foto** del salone (Impostazioni → Sede): sono la prima impressione per il cliente online. Consigliare al dealer foto professionali dell'ambiente.
-
-!!! info "Il link prenotazione"
-    Viene generato un **URL univoco** del salone, condivisibile via WhatsApp, bio di Instagram e Google Business Profile. Va messo subito online: è il ROI più immediato di BeWelly.
+!!! info "Il link di prenotazione"
+    Il sistema genera un **link** del salone: mettilo subito su Google Business Profile e nella bio di Instagram. È il ritorno più immediato di BeWelly.
 
 ---
 

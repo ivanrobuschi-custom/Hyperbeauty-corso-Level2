@@ -3,11 +3,11 @@ title: Fidelity Card
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Fidelity card, accumulo punti, gestione card e premi automatici con le automazioni marketing
+argomento: Fidelity card, accumulo punti, gestione card e premi automatici con le automazioni
 autore: Robuschi Ivan
 documento_destinato_a: partner
-data_creazione: 2026-07-04
-revisione: "1.0"
+data_creazione: 2026-07-05
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -19,13 +19,11 @@ keywords:
   - accumulo_punti
   - premi
   - automazioni
-  - fidelizzazione
-  - tessera_fedelta
 ---
 
 # Fidelity Card
 
-La fidelity card è la **tessera a punti** del salone: il cliente accumula punti a ogni acquisto e li converte in premi. Combinata con le **automazioni marketing**, diventa uno degli strumenti di fidelizzazione più potenti di HyperBeauty.
+La fidelity card è la **tessera a punti** del salone: il cliente accumula punti a ogni acquisto e li trasforma in premi. Ecco come impostarla e usarla, passo per passo.
 
 ---
 
@@ -36,39 +34,33 @@ La fidelity card è la **tessera a punti** del salone: il cliente accumula punti
 
 ---
 
-## Come funziona: l'accumulo punti
+## Passo 1 — Decidi i punti per trattamento
 
-Ogni trattamento e prodotto può generare un numero di punti configurabile. Dalla lista trattamenti si imposta **quanti punti** vengono accumulati per ciascun servizio.
+Nella lista trattamenti imposti **quanti punti** genera ogni servizio (o prodotto). È la tua "economia dei punti".
 
-![Punti accumulati per trattamento](assets/images/fidelity_card/step_01.png)
+![Punti per trattamento](assets/images/fidelity_card/step_01.png)
 
-In questo modo il salone decide la propria "economia dei punti": quanto vale ogni servizio in termini di fedeltà.
+## Passo 2 — Gestisci i movimenti punti
 
----
+Ogni card ha uno **storico movimenti**: da qui puoi aggiungere o scalare punti manualmente quando serve.
 
-## Le card fedeltà
+![Gestione dei movimenti punti](assets/images/fidelity_card/step_02.png)
 
-L'**Anagrafica Card** raccoglie tutte le tessere emesse, con codice, cliente associato e periodo di validità.
+## Passo 3 — Registra le card
+
+In **Anagrafica Card** trovi tutte le tessere emesse, con cliente e validità.
 
 ![Registro delle fidelity card](assets/images/fidelity_card/step_03.png)
 
-Con **Crea Card** si emette una nuova tessera e la si associa al cliente, indicando codice e validità.
+## Passo 4 — Crea e assegna una card
+
+Clicca **Crea Card**, inserisci il **codice** e la **validità**, e associala al cliente.
 
 ![Creazione e assegnazione di una card](assets/images/fidelity_card/step_04.png)
 
----
+## Passo 5 — Usa la fidelity in cassa
 
-## Accumulo e spesa dei punti
-
-Ogni card ha uno **storico movimenti punti**: accumuli, spese e rettifiche. Da qui si gestiscono manualmente i movimenti quando serve.
-
-![Gestione dei movimenti punti della card](assets/images/fidelity_card/step_02.png)
-
----
-
-## La fidelity alla cassa
-
-Al momento del pagamento, i punti si accumulano automaticamente e possono essere spesi direttamente in cassa.
+Al pagamento i punti si accumulano da soli e possono essere spesi direttamente in cassa.
 
 ![Fidelity card in cassa](assets/images/fidelity_card/step_06.png)
 
@@ -76,32 +68,15 @@ Al momento del pagamento, i punti si accumulano automaticamente e possono essere
 
 ## ⭐ Premi automatici con le automazioni
 
-Il vero valore della fidelity card emerge quando la si collega alle **automazioni marketing** di HyperBeauty. Le regole automatiche permettono di trasformare i punti in premi di ogni tipo, senza lavoro manuale dello staff.
+Il vero potere della fidelity nasce quando la colleghi alle **automazioni marketing**: i punti diventano premi automatici, senza lavoro dello staff.
 
-!!! tip "Cosa puoi dare come premio"
-    Grazie alle automazioni è possibile creare premi in:
+!!! tip "Che premi puoi dare"
+    - **Prodotti** — es. al raggiungimento di X punti, un prodotto omaggio
+    - **Trattamenti** — es. la decima seduta gratis, o un trattamento per il compleanno
+    - **Sconti** — es. sconto automatico sul prossimo acquisto oltre una soglia punti
+    - **…e altro** — buoni, upgrade, inviti a eventi
 
-    - **Prodotti** — es. al raggiungimento di X punti, un prodotto in omaggio
-    - **Trattamenti** — es. la decima seduta gratuita, o un trattamento omaggio al compleanno
-    - **Sconti** — es. sconto automatico sul prossimo acquisto quando si supera una soglia punti
-    - **…e molto altro** — buoni, upgrade di servizio, inviti a eventi, promozioni dedicate ai clienti più fedeli
-
-    Le regole si impostano una volta e lavorano da sole: il sistema riconosce il cliente, verifica i punti e applica il premio automaticamente. È il modo più efficace per far tornare i clienti senza sforzo operativo.
-
-!!! note "Collegamento con il Marketing Automation"
-    La configurazione dei premi e delle regole avanzate fa parte del modulo **Marketing Automation** (Sezione 3 · Automatizzare). La fidelity card è la base dati su cui quelle automazioni lavorano: più è curata, più i premi automatici sono efficaci.
-
----
-
-## Riepilogo
-
-| Passo | Azione |
-|-------|--------|
-| 1 | Impostare i punti accumulati per trattamento/prodotto |
-| 2 | Creare e assegnare le fidelity card ai clienti |
-| 3 | Lasciare che i punti si accumulino automaticamente in cassa |
-| 4 | Gestire i movimenti punti quando necessario |
-| 5 | Collegare le automazioni per erogare premi (prodotti, trattamenti, sconti) |
+    Imposti la regola una volta e il sistema riconosce il cliente, controlla i punti e applica il premio da solo. Vedi [Marketing Automation](marketing_automation.md).
 
 ---
 

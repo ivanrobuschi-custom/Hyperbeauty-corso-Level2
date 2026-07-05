@@ -3,97 +3,70 @@ title: Abbonamenti
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Creazione e uso degli abbonamenti, contatori sedute, scalatura automatica e cash flow
+argomento: Creazione e uso degli abbonamenti, contatori sedute e scalatura automatica
 autore: Robuschi Ivan
 documento_destinato_a: partner
-data_creazione: 2026-07-04
-revisione: "1.0"
+data_creazione: 2026-07-05
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
-sezione_ordine: 5
+sezione_ordine: 1
 prodotto_versione: "2026"
 keywords:
   - abbonamenti
   - pacchetti
   - sedute
   - cash_flow
-  - fidelizzazione
-  - scalatura_automatica
 ---
 
 # Abbonamenti
 
-L'abbonamento è lo strumento per **vendere cicli di trattamenti con pagamento anticipato**: aumenta la fedeltà del cliente e migliora il cash flow del salone, perché l'incasso arriva prima dell'erogazione dei servizi.
+L'abbonamento è un **pacchetto di sedute pagato in anticipo** (es. 10 sedute di un trattamento). Il cliente paga subito e torna finché ha sedute: fedeltà e incasso anticipato. Ecco come si usa.
 
 !!! warning "Videoguida in aggiornamento"
-    Il video tutorial dedicato agli abbonamenti è in fase di ri-registrazione e verrà pubblicato a breve. Questa pagina contiene già la guida operativa completa.
+    Il video tutorial degli abbonamenti è in fase di ri-registrazione. Qui sotto trovi la guida operativa completa.
 
 ---
 
-## Concetto base
+## Passo 1 — Crea l'abbonamento
 
-Un abbonamento è un **pacchetto di N sedute** di un trattamento specifico, acquistato in anticipo. Il cliente paga X sedute e le utilizza entro un periodo definito.
+Vai su **Anagrafiche → Abbonamenti → Nuovo** e imposta:
 
-!!! example "Esempio reale"
-    **"Pacchetto Anti-cellulite 10 sedute"** — Il cliente acquista 10 sedute. Ad ogni visita, dall'appuntamento o dalla cassa, si scala una seduta dal residuo.
+- il **nome** (es. "Pacchetto Anti-cellulite 10 sedute");
+- il **trattamento collegato**;
+- il **numero di sedute** e il **prezzo**;
+- la **validità** in giorni.
 
----
+## Passo 2 — Assegnalo al cliente
 
-## I contatori dell'abbonamento
+Dalla **scheda del cliente → tab Abbonamenti** clicca **Assegna abbonamento**. Registri l'incasso, **subito o in modo dilazionato**.
 
-Per ogni abbonamento il sistema mostra in tempo reale:
+## Passo 3 — Scala le sedute (in automatico)
 
-| Contatore | Significato |
-|-----------|-------------|
-| **Sedute acquistate** | Totale sedute del pacchetto |
-| **Sedute erogate** | Sedute già eseguite |
-| **Sedute prenotate** | Già in agenda ma non ancora effettuate |
-| **Sedute residue** | Ancora disponibili da prenotare |
+Quando incassi un appuntamento di quel trattamento, il sistema **propone di scalare una seduta** dall'abbonamento invece di farla pagare. Nessun calcolo a mano.
 
----
-
-## Creare un abbonamento
-
-**Percorso:** Anagrafiche → Abbonamenti → **Nuovo**
-
-Si definiscono: nome, trattamento collegato, numero di sedute, prezzo e validità (in giorni).
-
-## Assegnare l'abbonamento al cliente
-
-**Percorso:** Scheda cliente → Abbonamenti → **Assegna abbonamento**
-
-Al momento dell'assegnazione si registra l'incasso, **immediato o dilazionato**.
-
----
-
-## Scalatura automatica delle sedute
-
-Al momento dell'incasso di un appuntamento, se il cliente ha un abbonamento attivo per quel trattamento, il sistema **propone automaticamente di scalare la seduta dall'abbonamento** invece di addebitarla. Nessun calcolo manuale, nessun errore.
+!!! info "I contatori sempre aggiornati"
+    Per ogni abbonamento vedi: **sedute acquistate**, **erogate**, **prenotate** e **residue**.
 
 !!! tip "Icona verde in agenda"
-    Se il cliente ha sedute residue, in agenda compare un'**icona verde**: è un promemoria visivo immediato, visibile a **tutti gli operatori**. Ognuno può proporre l'utilizzo delle sedute residue senza dover aprire la scheda cliente.
+    Se il cliente ha sedute residue compare un'icona **verde**, visibile a tutti gli operatori: chiunque può proporre di usare le sedute rimaste.
 
 ---
 
-## Perché vendono da soli
+## Perché conviene
 
 !!! quote "Argomento di vendita"
-    *"Con gli abbonamenti il cliente paga 10 sedute e ne usa 8 — voi avete già incassato tutto. E il cliente torna perché ha ancora credito."*
-
-L'abbonamento lega il cliente al salone (ha già pagato, quindi torna) e anticipa l'incasso, con un effetto diretto e positivo sul cash flow.
-
----
+    *"Il cliente paga 10 sedute e ne usa 8: hai già incassato tutto. E torna perché ha ancora credito."*
 
 ## Abbonamento o prepagata?
 
 | | **Abbonamento** | **Prepagata** |
 |--|-----------------|---------------|
-| **Cosa lega** | Un trattamento specifico | Credito libero |
-| **Esempio** | 10 sedute di pulizia viso | €250 spendibili su tutto |
-| **Uso** | Scala una seduta | Scala un importo |
+| Cosa lega | Un trattamento specifico | Credito libero |
+| Esempio | 10 sedute di pulizia viso | €250 su tutto |
 
-Vedi anche la pagina [Carte Prepagate & Gift Card](carte_prepagate.md).
+Vedi anche [Carte Prepagate & Gift Card](carte_prepagate.md).
 
 ---
 
