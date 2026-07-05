@@ -49,33 +49,42 @@ copyright: Copyright Custom S.p.A. 2026
 
 nav:
   - Introduzione: index.md
-  - "1 · Gestire":
-    - Gestione appuntamento:
-      - gestione_appuntamento.md
-      - Inserimento rapido e chiusura: app_inserimento_rapido.md
-      - Ricerca disponibilità: app_ricerca_disponibilita.md
-      - Copia, incolla e sposta: app_copia_sposta.md
-      - Memo e Post-it: app_memo_postit.md
-      - Report appuntamenti: app_report_appuntamenti.md
-    - Cassa & Incassi:
-      - cassa_incassi.md
-      - Gestione cassa, sospesi e incassi: cassa_sospesi_incassi.md
-      - Gestione carrello: gestione_carrello.md
+  - Gestione appuntamento:
+    - gestione_appuntamento.md
+    - Inserimento rapido e chiusura: app_inserimento_rapido.md
+    - Ricerca disponibilità: app_ricerca_disponibilita.md
+    - Copia, incolla e sposta: app_copia_sposta.md
+    - Memo e Post-it: app_memo_postit.md
+    - Report appuntamenti: app_report_appuntamenti.md
+  - Cassa & Incassi:
+    - cassa_incassi.md
+    - Gestione cassa, sospesi e incassi: cassa_sospesi_incassi.md
+    - Gestione carrello: gestione_carrello.md
+  - "Gestire":
     - Scheda Cliente avanzata: scheda_cliente.md
     - Gestione Turni Operatori: gestione_turni.md
     - Listino & Schede Tecniche: listino.md
-    - Gestione Magazzino: gestione_magazzino.md
+    - Gestione Magazzino:
+      - gestione_magazzino.md
+      - Inventario iniziale: mag_inventario.md
+      - Carico da fattura d'acquisto: mag_carico_fattura.md
+      - Scarico ad uso interno: mag_scarico_interno.md
     - Costi di Gestione: costi_gestione.md
     - Wishlist: wishlist.md
     - Profili e Ruoli: profili_ruoli.md
     - Tipi documento: tipi_documento.md
-  - "2 · Fidelizzare":
+  - "Fidelizzare":
     - Abbonamenti: abbonamenti.md
     - Carte Prepagate & Gift Card: carte_prepagate.md
     - Fidelity Card: fidelity_card.md
-    - Report & Statistiche di Vendita: report_vendite.md
+    - Report & Statistiche:
+      - report_vendite.md
+      - Report vendite: stat_vendite.md
+      - Dashboard & Widget: stat_dashboard.md
+      - Report ed estrazioni personalizzate: stat_estrazioni.md
+      - Report degli incassi: stat_incassi.md
     - BeWelly — Prenotazione online: bewelly.md
-  - "3 · Automatizzare":
+  - "Automatizzare":
     - SMS & Comunicazioni automatiche: sms.md
     - WhatsApp — 3 livelli: whatsapp.md
     - Marketing Automation: marketing_automation.md
