@@ -24,6 +24,9 @@ keywords:
   - panoramica
 ---
 
+![HyperBeauty](assets/icons/logo.png)
+![HyperBeauty](assets/images/HB_copertina_2.png)
+
 # **Level 2** — Level Up: Gestire, Fidelizzare, Automatizzare
 
 Questo è il **LIVELLO 2** del percorso formativo HyperBeauty di *Custom S.p.A.* L'obiettivo è **trasformare il salone che usa già HyperBeauty** in un'attività capace di gestire l'operatività, fidelizzare la clientela e automatizzare le comunicazioni — aumentando il valore percepito da ogni cliente e la produttività del team.
