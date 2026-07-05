@@ -50,12 +50,21 @@ copyright: Copyright Custom S.p.A. 2026
 nav:
   - Introduzione: index.md
   - "1 · Gestire":
-    - Gestione appuntamento: gestione_appuntamento.md
+    - Gestione appuntamento:
+      - gestione_appuntamento.md
+      - Inserimento rapido e chiusura: app_inserimento_rapido.md
+      - Ricerca disponibilità: app_ricerca_disponibilita.md
+      - Copia, incolla e sposta: app_copia_sposta.md
+      - Memo e Post-it: app_memo_postit.md
+      - Report appuntamenti: app_report_appuntamenti.md
+    - Cassa & Incassi:
+      - cassa_incassi.md
+      - Gestione cassa, sospesi e incassi: cassa_sospesi_incassi.md
+      - Gestione carrello: gestione_carrello.md
     - Scheda Cliente avanzata: scheda_cliente.md
     - Gestione Turni Operatori: gestione_turni.md
     - Listino & Schede Tecniche: listino.md
     - Gestione Magazzino: gestione_magazzino.md
-    - Cassa & Incassi: cassa_incassi.md
     - Costi di Gestione: costi_gestione.md
     - Wishlist: wishlist.md
     - Profili e Ruoli: profili_ruoli.md

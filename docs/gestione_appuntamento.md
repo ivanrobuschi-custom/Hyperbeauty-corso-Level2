@@ -3,11 +3,11 @@ title: Gestione appuntamento
 tipologia: software
 nome: HyperBeauty
 produttore: Custom S.p.A.
-argomento: Presa e gestione appuntamenti, ricorrenti, ricerca disponibilità, memo, spostamento, riepilogo WhatsApp, chiusura e report
+argomento: Panoramica della gestione appuntamenti — operatore preferenziale, ricorrenti, riepilogo WhatsApp e guide dedicate
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.0"
+revisione: "1.1"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -17,38 +17,33 @@ keywords:
   - appuntamento
   - agenda
   - ricorrenti
-  - ricerca_disponibilita
-  - memo
+  - operatore_preferenziale
   - whatsapp
-  - incasso
-  - report_appuntamenti
 ---
 
 # Gestione appuntamento
 
 È la fase centrale del lavoro quotidiano in salone: dalla presa dell'appuntamento fino alla vendita con relativo incasso. Questa sezione raccoglie tutte le tecniche operative dell'agenda.
 
----
-
-## Creazione rapida e chiusura
-
-Inserimento veloce di un appuntamento, selezione cliente e trattamento, salvataggio e chiusura con incasso in cassa.
-
-<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/53-Hyperbeauty_inserire_rapidmente_appuntamenti_e_relativa_chiusura.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video>
+!!! info "Guide dedicate in questa sezione"
+    - [Inserimento rapido e chiusura](app_inserimento_rapido.md)
+    - [Creazione appuntamento con ricerca disponibilità](app_ricerca_disponibilita.md)
+    - [Copia, incolla e sposta appuntamenti](app_copia_sposta.md)
+    - [Memo e Post-it in agenda](app_memo_postit.md)
+    - [Report appuntamenti lavorati e futuri](app_report_appuntamenti.md)
 
 ---
 
-## Creazione con ricerca disponibilità
+## Operatore specializzato e risorsa preferenziale
 
-Quando il cliente chiede "quando c'è posto?", la **ricerca disponibilità** propone i primi slot liberi in base al trattamento e all'operatore scelti.
+Si può indicare l'operatore che esegue abitualmente un certo trattamento e la risorsa/postazione preferenziale, così l'agenda propone le assegnazioni corrette.
 
 <video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/45_creazione_appuntamento_con_ricerca_disponibilit%C3%A0.mp4" type="video/mp4">
+  <source src="../assets/resources/GESTIRE/appuntamento/13-Hyperbeauty_l%27operatore_specializzato_e_la_risorsa_preferenziale.mp4" type="video/mp4">
   Il tuo browser non supporta il tag video.
 </video>
+
+![Operatore specializzato e risorsa preferenziale](assets/images/gestione_appuntamento/13_operatore.png)
 
 ---
 
@@ -67,41 +62,6 @@ Per i clienti con cadenza fissa (es. piega ogni 15 giorni) si programma un appun
 
 ---
 
-## Copia, incolla e sposta appuntamenti
-
-L'agenda supporta il **drag & drop** e le funzioni di clipboard per spostare o duplicare rapidamente gli appuntamenti.
-
-<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/35_copia_incolla_sposta_appuntamenti_in_agenda.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video>
-
----
-
-## Operatore specializzato e risorsa preferenziale
-
-Si può indicare l'operatore che esegue abitualmente un certo trattamento e la risorsa/postazione preferenziale, così l'agenda propone le assegnazioni corrette.
-
-<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/13-Hyperbeauty_l%27operatore_specializzato_e_la_risorsa_preferenziale.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video>
-
-![Operatore specializzato e risorsa preferenziale](assets/images/gestione_appuntamento/13_operatore.png)
-
----
-
-## Memo e post-it in agenda
-
-I **post-it** e i **memo** permettono di annotare promemoria direttamente in agenda o sull'appuntamento, visibili a tutto lo staff.
-
-<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/31-Hyperbeauty_gestione_memo_post-it.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video>
-
----
-
 ## Riepilogo appuntamenti via WhatsApp
 
 Al salvataggio, il gestionale può pre-comporre un messaggio WhatsApp con il **riepilogo degli appuntamenti** del cliente, pronto da inviare.
@@ -112,17 +72,6 @@ Al salvataggio, il gestionale può pre-comporre un messaggio WhatsApp con il **r
 </video>
 
 ![Riepilogo appuntamenti pronto per WhatsApp](assets/images/gestione_appuntamento/51_riepilogo.png)
-
----
-
-## Report appuntamenti lavorati e futuri
-
-Il report degli appuntamenti mostra quelli **lavorati** e quelli **futuri**, con stato, operatore e importo — utile per il controllo dell'agenda e la produttività.
-
-<video controls width="100%" style="border-radius:8px; margin:1rem 0;">
-  <source src="../assets/resources/GESTIRE/appuntamento/65-Hyperbeauty_report_appuntamenti_lavorati_e_futuri.mp4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video>
 
 ---
 
