@@ -90,7 +90,7 @@ Lo scontrino di utilizzo riporta il trattamento al suo valore (es. *22,50*) segu
 
 ## Passo 8 — Controlla i contatori dell'abbonamento
 
-In **Anagrafiche → Abbonamenti → Abbonamenti** trovi tutti gli abbonamenti **emessi**, con cliente, valore, validità e stato incasso. Aprendo il dettaglio vedi la situazione seduta per seduta: quelle usate risultano **VENDUTO**, quelle ancora da erogare **DISPONIBILE**.
+In **Anagrafiche → Abbonamenti → Lista Emessi ** trovi tutti gli abbonamenti **emessi**, con cliente, valore, validità e stato incasso. Aprendo il dettaglio vedi la situazione seduta per seduta: quelle usate risultano **VENDUTO**, quelle ancora da erogare **DISPONIBILE**.
 
 ![Dettaglio abbonamento emesso con contatori delle sedute](assets/images/abbonamenti/step_07.jpg)
 

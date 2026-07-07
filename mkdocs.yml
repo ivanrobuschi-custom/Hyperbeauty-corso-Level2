@@ -76,6 +76,8 @@ nav:
   - "Fidelizzare":
     - Abbonamenti: abbonamenti.md
     - Carte Prepagate & Gift Card: carte_prepagate.md
+    - Emissione Prepagate: emissione_prep.md
+    - Vendita e Utilizzo Prepagata: vendita_prep.md
     - Fidelity Card: fidelity_card.md
     - Report & Statistiche:
       - report_vendite.md
