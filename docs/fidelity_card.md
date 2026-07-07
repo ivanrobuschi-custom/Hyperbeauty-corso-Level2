@@ -7,7 +7,7 @@ argomento: Fidelity card, accumulo punti, gestione card e premi automatici con l
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.1"
+revisione: "1.2"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -34,35 +34,35 @@ La fidelity card è la **tessera a punti** del salone: il cliente accumula punti
 
 ---
 
-## Passo 1 — Decidi i punti per trattamento
+## Passo 1 — Assegna i punti a trattamenti e prodotti
 
-Nella lista trattamenti imposti **quanti punti** genera ogni servizio (o prodotto). È la tua "economia dei punti".
+Apri un trattamento (o prodotto) e, nella scheda **Modifica Trattamento**, vai alla sezione **Punti Fidelity**: imposta il **Num. Punti**, il **Tipo Calcolo** (es. *Per Euro*) e spunta **Abilita Fidelity**. È la tua "economia dei punti".
 
-![Punti per trattamento](assets/images/fidelity_card/step_01.png)
+![Sezione Punti Fidelity nella scheda del trattamento](assets/images/fidelity_card/step_01.png)
 
-## Passo 2 — Gestisci i movimenti punti
+## Passo 2 — Fai caricare i punti in automatico
 
-Ogni card ha uno **storico movimenti**: da qui puoi aggiungere o scalare punti manualmente quando serve.
+In **Vendite → Tipi Documento**, sul documento usato in cassa (es. lo scontrino), imposta il **Carico Fidelity** su *Carico Punti*. Così a ogni vendita i punti si accumulano da soli, senza interventi dello staff.
 
-![Gestione dei movimenti punti](assets/images/fidelity_card/step_02.png)
+![Tipi documento con carico punti fidelity](assets/images/fidelity_card/step_02.png)
 
-## Passo 3 — Registra le card
+## Passo 3 — Crea e aggancia la card al cliente
 
-In **Anagrafica Card** trovi tutte le tessere emesse, con cliente e validità.
+Dalla scheda cliente apri **Fidelity Card → Aggancia Card**, clicca **Crea Card**, inserisci il **Codice** e la **Validità (dal / al)**, salva e poi **Aggancia** la tessera al cliente.
 
-![Registro delle fidelity card](assets/images/fidelity_card/step_03.png)
+![Creazione e aggancio della card al cliente](assets/images/fidelity_card/step_03.png)
 
-## Passo 4 — Crea e assegna una card
+## Passo 4 — Movimenti punti manuali
 
-Clicca **Crea Card**, inserisci il **codice** e la **validità**, e associala al cliente.
+Quando serve puoi intervenire a mano: con **Nuovo Movimento Punti** aggiungi o scali punti indicando **Punti** e **Tipo Movimentazione** (es. *Carico Punti*).
 
-![Creazione e assegnazione di una card](assets/images/fidelity_card/step_04.png)
+![Nuovo movimento punti manuale](assets/images/fidelity_card/step_04.png)
 
-## Passo 5 — Usa la fidelity in cassa
+## Passo 5 — Controlla la situazione della card
 
-Al pagamento i punti si accumulano da soli e possono essere spesi direttamente in cassa.
+La **Situazione Card** mostra lo **storico movimenti** (carichi automatici e manuali, con data e scadenza) e il **saldo punti** aggiornato del cliente.
 
-![Fidelity card in cassa](assets/images/fidelity_card/step_06.png)
+![Situazione della card con storico e saldo punti](assets/images/fidelity_card/step_05.png)
 
 ---
 
