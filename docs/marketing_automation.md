@@ -32,9 +32,6 @@ Le automazioni sono l'**assistente virtuale** del salone: lavorano anche a serra
   Il tuo browser non supporta il tag video.
 </video>
 
-!!! quote "Luigi Novi"
-    *"Nessun competitor ce l'ha così spinto."*
-
 ---
 
 ## Passo 1 — Apri le automazioni
