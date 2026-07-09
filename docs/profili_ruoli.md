@@ -7,7 +7,7 @@ argomento: Profili utente e ruoli di accesso al gestionale
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.1"
+revisione: "1.2"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -70,6 +70,19 @@ Passa a **Configurazione → Autorizzazioni → Profili**. Nella **Configurazion
 
 !!! info "Ruoli diversi su livelli diversi"
     Uno stesso operatore può avere un ruolo su una sede e un ruolo differente su un'altra: basta impostare il menu **Ruolo** riga per riga.
+
+## Passo 5 — Invita l'operatore
+
+Perché l'operatore possa accedere davvero, va invitato. In **Configurazione → Autorizzazioni → Inviti** clicca **Nuovo Invito**, inserisci l'**email dell'utente da invitare**, scegli il **Profilo da assegnare** (es. *Operatore 1*), l'**Operatore a cui agganciare** e, se serve, una **Data Fine**. Poi premi **Salva**.
+
+![Creazione del nuovo invito](assets/images/profili_ruoli/step_05.png)
+
+Finché l'utente non accetta, l'invito resta **In attesa**: lo stato è sempre visibile nell'elenco, insieme a profilo, operatore e date di collaborazione.
+
+![Elenco inviti con stato In attesa](assets/images/profili_ruoli/step_06.png)
+
+!!! success "Flusso completo"
+    Ruolo → Profilo → Invito: una volta accettato l'invito, l'operatore accede con esattamente i permessi che gli hai assegnato.
 
 ---
 

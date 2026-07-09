@@ -7,7 +7,7 @@ argomento: Automazioni marketing SE-ALLORA, clienti inattivi, compleanni, rinnov
 autore: Robuschi Ivan
 documento_destinato_a: partner
 data_creazione: 2026-07-05
-revisione: "1.1"
+revisione: "1.2"
 lingua: it
 livello_corso: level_2
 tipo_contenuto: guida-operativa
@@ -61,6 +61,22 @@ Nell'editor compili due colonne: a sinistra le **Condizioni da verificare** (il 
 | **Abbonamento in scadenza** | Meno di 2 sedute residue → promemoria di rinnovo |
 | **Compleanno** | Sequenza: 3 giorni prima → il giorno → 3 giorni dopo se non ha prenotato |
 | **Cross-selling** | Solo manicure negli ultimi 3 mesi → proponi un trattamento viso |
+
+## Automazioni reali nel gestionale
+
+Nell'elenco automazioni di HyperBeauty ogni riga mostra la **descrizione**, il **momento di attivazione**, la **validità** e lo **stato** (attiva/disattiva). Ecco alcune automazioni pronte, così come si presentano in uso.
+
+![Elenco delle automazioni attive nel gestionale](assets/images/marketing_automation/esempi_reali.png)
+
+| Automazione | Momento di attivazione | A cosa serve |
+|-------------|------------------------|--------------|
+| **Premio Fidelity 100 punti** | All'emissione di un Documento di Vendita | Riconosce il premio al raggiungimento dei punti (vedi [Premio Fedeltà](premio_fidelity.md)) |
+| **Clienti assenti da 90 giorni** | Tutti i giorni | Recupera i clienti che non tornano da tempo |
+| **Riepilogo Appuntamenti (app)** | Al salvataggio di un nuovo Appuntamento | Invia al cliente il riepilogo del suo appuntamento |
+| **Memo Appuntamenti** | Tutti i giorni | Promemoria automatico degli appuntamenti in arrivo |
+
+!!! tip "Momento di attivazione"
+    È il "grilletto" dell'automazione: può essere ricorrente (*Tutti i giorni*) oppure legato a un evento (*al salvataggio di un appuntamento*, *all'emissione di un documento di vendita*).
 
 ---
 
