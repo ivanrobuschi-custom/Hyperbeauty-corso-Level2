@@ -79,6 +79,7 @@ nav:
     - Emissione Prepagate: emissione_prep.md
     - Vendita e Utilizzo Prepagata: vendita_prep.md
     - Fidelity Card: fidelity_card.md
+    - Premio Fedeltà al Raggiungimento Punti: premio_fidelity.md
     - Report & Statistiche:
       - report_vendite.md
       - Report vendite: stat_vendite.md
