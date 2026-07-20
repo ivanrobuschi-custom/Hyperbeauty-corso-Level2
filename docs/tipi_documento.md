@@ -24,9 +24,6 @@ keywords:
 
 HyperBeauty consente di creare **tipi di documento** diversi dal documento commerciale (scontrino), come ad esempio i **preventivi**, per gestire in modo formale offerte e comunicazioni al cliente.
 
-!!! warning "Videoguida in produzione"
-    Il video tutorial dedicato ai tipi documento è in fase di produzione e verrà pubblicato a breve. Questa pagina contiene la descrizione operativa di base.
-
 ---
 
 ## A cosa serve
@@ -41,3 +38,4 @@ HyperBeauty consente di creare **tipi di documento** diversi dal documento comme
 ---
 
 *Documento a cura di Custom S.p.a. — HyperBeauty Training Program — Versione 1.0 — Luglio 2026*
+
