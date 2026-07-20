@@ -89,6 +89,8 @@ nav:
     - BeWelly — Prenotazione online: bewelly.md
   - "Automatizzare":
     - SMS & Comunicazioni automatiche: sms.md
+    - SMS — Acquisto C4U e Alias: sms_c4u_alias.md
+    - Promemoria SMS Appuntamento: promemoria_sms.md
     - WhatsApp — 3 livelli: whatsapp.md
     - SendApp Official — Acquisto e Configurazione: sendapp_official.md
     - Marketing Automation: marketing_automation.md
