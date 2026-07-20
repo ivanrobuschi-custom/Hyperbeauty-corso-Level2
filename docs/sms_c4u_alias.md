@@ -31,8 +31,6 @@ Per inviare SMS dal gestionale servono due cose: un **pacchetto SMS** (il credit
 
 Accedi al **portale C4U** e acquista il **pacchetto SMS** (il credito) per la sede. L'attivazione del servizio per l'istanza Hyper Beauty avviene dalla console di gestione Custom, dove si seleziona l'esercente e si conferma l'acquisto.
 
-![Console di attivazione del servizio](assets/images/sms_c4u_alias/step_01.png)
-
 !!! info "Il credito SMS"
     Gli SMS si scalano dal credito acquistato: puoi verificarne il residuo dalle informazioni del servizio. Quando si esaurisce, basta acquistare un nuovo pacchetto su C4U.
 

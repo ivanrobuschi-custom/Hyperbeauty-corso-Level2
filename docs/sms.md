@@ -24,9 +24,6 @@ keywords:
 
 Con gli SMS automatici il salone conferma, ricorda e fa gli auguri ai clienti **senza fare nulla a mano**. Il vantaggio più concreto: **meno no-show**.
 
-!!! warning "Videoguida in produzione"
-    Il video tutorial degli SMS è in fase di produzione. Qui trovi la guida operativa completa.
-
 ---
 
 ## Passo 1 — Prepara la scheda cliente
